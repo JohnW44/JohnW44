@@ -11,12 +11,13 @@
 ## 💥 My goals
  * Become Leetcode Master
  * Expanding my knowledge in the AI field and how to effectively implement it into apps
- * Kepp improving Mbolden Change
+ * Keep improving Mbolden Change
 
 ## ⚡Fun facts
  * I'm originally from Chicago and I'm loyal to the terrible football and basketball teams to a fault (MJ > Lebron)
  * Big Padres fans since moving cities, I go to multiple games per year
  * My super power is that I have nearly infinite patience
+ * I log my workouts into ChatGpt, if there's a better program, let me know... Or let's create one 👀
 <!--
 **JohnW44/JohnW44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
